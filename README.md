@@ -1,0 +1,2 @@
+# go-socket-server
+GO WEBSOCKET SERVER WITH SOCKET.IO
